@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/bdTxWolHXUtbi" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-surprised-pee-wee-herman-bdTxWolHXUtbi">via GIPHY</a></p>
+[Gif] <iframe src="https://giphy.com/embed/bdTxWolHXUtbi" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-surprised-pee-wee-herman-bdTxWolHXUtbi">via GIPHY</a></p>
 
 # Ethan Byrne
 
@@ -14,7 +14,7 @@
 
 ## Department of Design
 
-(https://www.ewu.edu/cstem/design/bachelor-of-design/)
+(https://www.ewu.edu/cstem/design/)
 
 ## Skills
 - Illustration
