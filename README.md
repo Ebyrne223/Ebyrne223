@@ -12,6 +12,10 @@
 
 [GitHub] (https://github.com/ebyrne223!)
 
+## Department of Design
+
+(https://www.ewu.edu/cstem/design/bachelor-of-design/)
+
 ## Skills
 - Illustration
 - Photography
