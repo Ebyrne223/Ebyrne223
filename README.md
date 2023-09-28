@@ -1,5 +1,5 @@
-[gif] ()
 # Ethan Byrne
+![gif](giphy.webp)
 
 "The grass is greener but the snakes are bigger."
 
