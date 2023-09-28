@@ -14,7 +14,7 @@
 
 ## Department of Design
 
-(https://www.ewu.edu/cstem/design/)
+[EWU Design] (https://www.ewu.edu/cstem/design/)
 
 ## Skills
 - Illustration
